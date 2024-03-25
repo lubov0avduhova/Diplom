@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/And" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/And" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Android" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Android" />
+            <option value="$PROJECT_DIR$/Android/app" />
+            <option value="$PROJECT_DIR$/Android/core" />
+            <option value="$PROJECT_DIR$/Android/core/base" />
+            <option value="$PROJECT_DIR$/Android/core/common" />
+            <option value="$PROJECT_DIR$/Android/core/di" />
+            <option value="$PROJECT_DIR$/Android/core/navigation" />
+            <option value="$PROJECT_DIR$/Android/core/ui-base" />
+            <option value="$PROJECT_DIR$/Android/core/ui-components" />
+            <option value="$PROJECT_DIR$/Android/data" />
+            <option value="$PROJECT_DIR$/Android/data/api" />
+            <option value="$PROJECT_DIR$/Android/data/impl" />
+            <option value="$PROJECT_DIR$/Android/domain" />
+            <option value="$PROJECT_DIR$/Android/domain/api" />
+            <option value="$PROJECT_DIR$/Android/domain/impl" />
+            <option value="$PROJECT_DIR$/Android/domain/models" />
+            <option value="$PROJECT_DIR$/Android/features" />
+            <option value="$PROJECT_DIR$/Android/features/menu" />
+            <option value="$PROJECT_DIR$/Android/features/search" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
